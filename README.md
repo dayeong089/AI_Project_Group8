@@ -1,2 +1,2 @@
-This project is for github practice.
+This project is for AI_project team8
 
